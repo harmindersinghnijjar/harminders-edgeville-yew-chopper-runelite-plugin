@@ -26,7 +26,7 @@ Once installed, the plugin will automatically start when the RuneLite client is 
 
 ## Configuration
 
-The plugin does not require any additional configuration. However, it's crucial to ensure that the API endpoint (`API_BASE_URL`) is correctly set up and running to receive data sent by the plugin.
+The plugin does not require any additional configuration. However, it's crucial to ensure that the API endpoint (`[localhost:42069](http://localhost:42069)`) is correctly set up and running to receive data sent by the plugin.
 
 ## Contributing
 
