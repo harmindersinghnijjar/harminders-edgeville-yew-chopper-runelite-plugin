@@ -7,6 +7,7 @@ A RuneLite plugin that sends game and player information to a Python endpoint in
 
 <img src="https://i.imgur.com/gEheZg7.png">
 
+<img src="https://i.imgur.com/LemCAMc.png">
 
 ## Features
 
