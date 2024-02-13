@@ -1,7 +1,7 @@
 
 # Harminder's Edgeville Yew Chopper RuneLite Plugin
 
-This RuneLite plugin is designed to enhance the player's experience by providing additional overlays and functionalities within the game. The plugin captures various game attributes and sends them to an API, as well as draws overlays on specific in-game objects and UI elements.
+A RuneLite plugin that sends game and player information to a Python endpoint in near real-time for analytics purposes. The plugin also draws an overlay over all Yew trees and bank booths within a 50-title radius of the player. Upon banking, it draws an overlay of 25 pixels over the bank's close button and fills the bank's deposit button with blue. This plugin's primary purpose is to assist in the creation of Python color bots for the popular MMORPG game, Old School RuneScape (OSRS).
 <img src="https://i.imgur.com/8MZB8I8.png">
 <img src="https://i.imgur.com/gEheZg7.png">
 ## Features
