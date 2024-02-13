@@ -3,9 +3,11 @@
 
 A RuneLite plugin that sends game and player information to a Python endpoint in near real-time for analytics purposes. The plugin also draws an overlay over all Yew trees and bank booths within a 50-title radius of the player. Upon banking, it draws an overlay of 25 pixels over the bank's close button and fills the bank's deposit button with blue. This plugin's primary purpose is to assist in the creation of Python color bots for the popular MMORPG game, Old School RuneScape (OSRS).
 
-
 <img src="https://i.imgur.com/8MZB8I8.png">
+
 <img src="https://i.imgur.com/gEheZg7.png">
+
+
 ## Features
 
 - **GameObject Overlay**: Draws overlays on specific game objects within the game world, such as Yew trees and Bank booths, and highlights them in distinct colors.
