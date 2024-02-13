@@ -26,7 +26,7 @@ Once installed, the plugin will automatically start when the RuneLite client is 
 
 ## Configuration
 
-The plugin does not require any additional configuration. However, it's crucial to ensure that the API endpoint (`[localhost:42069](http://localhost:42069)`) is correctly set up and running to receive data sent by the plugin.
+The plugin does not require any additional configuration. However, it's crucial to ensure that the API endpoint [localhost:42069](http://localhost:42069) is correctly set up and running to receive data sent by the plugin.
 
 ## Contributing
 
@@ -43,7 +43,7 @@ This plugin is open-source software licensed under the MIT License.
 
 ## Support
 
-For support, questions, or more information about the plugin, please visit [Harminder's personal site](https://harminder.dev).
+For support, questions, or more information about the plugin, please visit [Harminder's site](https://harminder.dev).
 
 ## Disclaimer
 
